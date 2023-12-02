@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .hero{
 	display:flex;
-	justify-content:;
+	justify-content:flex-start;
 	align-items:stretch;
 	width:600px;
 	height:200px;
